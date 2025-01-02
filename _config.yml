@@ -13,14 +13,14 @@ people:
   pic: 1
   position: Fouder, Computer Vision Engineer
   social:
-    - title: twitter
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/dorozhko-anton/
     - title: youtube
-      url: #
+      url: https://www.youtube.com/@ComputerVisionStream
     - title: link
-      url: #
+      url: https://dorozhko-anton.github.io/
+    - title: twitter
+      url: https://x.com/dorozhkoa
     # - title: stack-overflow
     #   url: #
 
